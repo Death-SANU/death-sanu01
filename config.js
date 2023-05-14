@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497079', 'sandaru', true],
-  ['6281255369012', 'Ash', true], 
+  ['94706389804', 'sl film world', true],
+  ['94774309804', 'gaming SANU', true], 
   [''] 
 ] //Number of owners
 
@@ -47,19 +47,17 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'SANDARU-YT'
+global.botname = 'gaming-SANU'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.packname = 'SANU┃ᴮᴼᵀ' 
+global.author = '@slfilmworld2009' 
+global.igfg = '▢ subscribe on youtube\https://www.youtube.com/@slfilmworld2009/featured' 
+global.dygp = 'http://wa.me/+94706389804'
+global.fgyt = 'https://youtube.com/@slfilmworld2009'
+global.fgpyp = 'https://youtube.com/@slfilmworld2009' 
 global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railway.app:6244' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*LOADING PLEASE WAIT....*'
+global.wait = '🔥*LOADING PLEASE WAIT....*🔥'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
