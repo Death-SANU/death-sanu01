@@ -57,7 +57,7 @@ global.fgyt = 'https://youtube.com/@slfilmworld2009'
 global.fgpyp = 'https://youtube.com/@slfilmworld2009' 
 global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railway.app:6244' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '🔥*LOADING PLEASE WAIT....*🔥'
+global.wait = '*LOADING PLEASE WAIT....*🔥'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
