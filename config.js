@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'gaming-SANU'
+global.botname = 'DEATH-SANU'
 global.premium = 'true'
 global.packname = 'SANU┃ᴮᴼᵀ' 
 global.author = '@slfilmworld2009' 
